@@ -1,7 +1,7 @@
 tern-cordovajs
 ===========
 
-[![Build Status](https://secure.travis-ci.org/angelozerr/tern-cordovajs.png)](http://travis-ci.org/angelozerr/tern-cordovajs)
+[![Build Status](https://secure.travis-ci.org/angelozerr/tern-cordovajs.png)](http://travis-ci.org/vrubezhny/tern-cordovajs)
 [![NPM version](https://img.shields.io/npm/v/tern-cordovajs.svg)](https://www.npmjs.org/package/tern-cordovajs)
 
 [tern-cordovajs](https://github.com/vrubezhny/tern-cordovajs) is a plugin which adds support for [Apache Cordova(tm) JavaScript API](http://cordova.apache.org/) to the JavaSript code intelligence system [Tern](http://ternjs.net/).
